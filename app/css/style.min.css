@@ -1,0 +1,9 @@
+body {
+  background: green; }
+
+.header {
+  height: 50px;
+  width: 50px;
+  background: red; }
+  .header__title {
+    color: white; }
